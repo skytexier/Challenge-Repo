@@ -44,11 +44,11 @@ Below is an example of the old CSS code for elements regarding the websites cent
 Each of these sections had unique classes like .search-engine-optimization and .online-reputation-management. <br>
 Despite this, these classes all had the same styling in CSS (except for their float styling).
 
-![alt text](images\oldcss-maincontent.png)
+![alt text](/images/oldcss-maincontent.png)
 
 In my code I've wrapped up these distinct classes into one called "main-content" while leaving the class selectors for their float styling.
 
-![alt text](images\newcss-maincontent.png)
+![alt text](/images/newcss-maincontent.png)
 
 I also did a similar process for the classes and styling within the < aside > elements of this document.
 

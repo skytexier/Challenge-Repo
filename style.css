@@ -124,6 +124,7 @@ aside {
     text-align: center;
 }
 
+/* Centered p elements in aside, looks a bit cleaner */
 .benefits-aside p {
     text-align: center;
 }
