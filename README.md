@@ -1,4 +1,4 @@
-# Week 1 Challenge Assignment
+# Horiseon Refactoring Project
  
 ## Description
  
@@ -23,21 +23,27 @@ In summary, my motivation behind refactoring this website was to meet accessibil
  
 ## Link To Live URL
 
-[Week 1 Challenge](https://skytexier.github.io/Challenge-Repo/)
+[Week 1 Challenge](https://skytexier.github.io/Horiseon-Refactor/)
 
 ## Installation
  
 For proper installation or usage of the website include index.html, style.css and /images folder. No installation required unless modifying code, in such case proper git pulling from the repo and importing into editing software required.
  
 ## Usage
- 
-These files are to be used in redefining and updating the old files related to the website. These files can completely replace the old code without a dramatic effect on the styling or structure of the page except for a few instances as listed in [features](#features). The implementation of this code will help to better display the semantic elements of the HTML file, its structure and will properly define said elements. Similarly the implementation of this code will have the same effect on the CSS styling.
+
+The files of this refactoring project are to be used in redefining and updating the old files related to the website "Horiseon." The implementation of this code will help to define the semantic elements of the HTML file, add comments to its structure, and will overall improve accessibility. To further the end of improving accessability alt tags have been added to the HTML, the usage of which can be pictured below: 
+
+![alt text](/images/refactoredalttags.png)
+
+These files can completely replace the old code without a dramatic effect on the styling or structure of the page except for a few instances as listed in [features](#features). Similarly the implementation of this code will have the same effect on the CSS styling. 
 
  
 ## Features
  
 Some unique features I added to this refactored project include on hover styling for the navbar links.
-This implementation was intended to better help display the nav bars intended usage and to help with accessibility.
+This implementation was intended to better help display the nav bars intended usage and to help with accessibility. As shown below:
+
+![alt text](/images/navbarhover.png)
  
 As stated earlier a feature I added, or rather refactored, was to combine many CSS classes for the aside and main content styling, thus making it easier to change all elements at once rather than individually adjusting classes for each element.
  
