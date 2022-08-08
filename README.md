@@ -23,7 +23,7 @@ In summary, my motivation behind refactoring this website was to meet accessibil
  
 ## Link To Live URL
 
-[Week 1 Challenge](https://skytexier.github.io/Horiseon-Refactor/)
+[Horiseon Refactored Page](https://skytexier.github.io/Horiseon-Refactor/)
 
 ## Installation
  
